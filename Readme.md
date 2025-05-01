@@ -1,3 +1,10 @@
+Repositório selecionado: https://github.com/expressjs/express
+
+Gráfico selecionado: Lines of code (LOC)
+
+Explicação: Analisando o arquivo History.md, é possível perceber que no ano de 2024, foi lançada a versão 5.0 do Express, e essa versão ficou muito tempo em desenvolvimento, de forma que essa versão trouxe muitas novas funcionalidades e atualizações de dependencias. Para que isso ocorresse, foi necessário uma reestruturação do código, para facilitar a criação de novas features e a manutenção. Isso faz com que se tenha muito mais linhas de código, já que ocorreu a introdução de novas coisas, mas nem sempre é possível adicionar novos códigos da melhor forma inicialmente. Por isso temos um grande aumento de 2022 para 2023. Como a versão 5.0 foi lançada mais para o final do ano de 2024, não foi possível fazer a refatoração do código ainda em 2024 e por isso que em 2024 ainda se tem o alto número de linhas de código. Já em 2025, ocorre o lançamento da versão 5.1.0, na qual eles buscaram otimizar o framework, através de remoção de dependências obsoletas, refatorações de código e atualizações de dependências para versões mais atuais. Isso fez com que a quantidade de linhas de código diminuisse novamente, voltando à números próximos aos de 2020 e 2021.
+
+
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://expressjs.com/)
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
